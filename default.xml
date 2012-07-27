@@ -11,8 +11,8 @@
       <remote name="private"
            fetch="ssh://git@github.com" />
 
-      <default revision="refs/heads/jb-dev"
-           remote="aosp"
+      <default revision="refs/heads/jellybean"
+           remote="github"
            sync-j="4" />
 
       <project path="build" name="platform/build" remote="aosp" revision="refs/tags/jb-dev" >
