@@ -11,7 +11,7 @@
   <remote name="private"
            fetch="ssh://git@github.com" />
 
-  <default revision="refs/heads/ics"
+  <default revision="refs/heads/aosp"
            remote="github"
            sync-j="4" />
 
