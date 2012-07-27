@@ -15,7 +15,7 @@
            remote="github"
            sync-j="4" />
 
-      <project path="build" name="platform/build" remote="aosp" revision="refs/tags/jb-dev">
+      <project path="build" name="platform/build" remote="aosp" revision="jb-dev">
         <copyfile src="core/root.mk" dest="Makefile" />
       </project>
       <project path="abi/cpp" name="platform/abi/cpp" remote="aosp" revision="refs/tags/jb-dev" />
