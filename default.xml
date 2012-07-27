@@ -16,7 +16,7 @@
            sync-j="4" />
 
   <project path="build" name="platform/build" >
-    <copyfile src="core/root.mk" dest="Makefile" remote=“aosp” />
+    <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" remote=“aosp” revision=“refs/tags/android-4.1.1_r3” />
   <project path="bionic" name="platform/bionic" remote=“aosp” revision=“refs/tags/android-4.1.1_r3” />
