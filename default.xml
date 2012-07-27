@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-      <remote  name="aosp"
-               fetch="https://android.googlesource.com/"
-               review="https://android-review.googlesource.com/" />
-               
-      <default revision="jb-dev"
-               remote="aosp"
-               sync-j="4" />
+      <remote name="aosp"
+           fetch="https://android.googlesource.com/" />
+
+      <remote name="github"
+           fetch=".."
+           review="review.cyanogenmod.com" />
+
+      <remote name="private"
+           fetch="ssh://git@github.com" />
+
+      <default revision="refs/heads/jb-dev"
+           remote="github"
+           sync-j="4" />
 
       <project path="build" name="platform/build" >
         <copyfile src="core/root.mk" dest="Makefile" />
