@@ -11,12 +11,12 @@
   <remote name="private"
            fetch="ssh://git@github.com" />
 
-  <default revision="refs/heads/aosp"
+  <default revision="refs/heads/android-4.1.1_r3"
            remote="github"
            sync-j="4" />
 
   <project path="build" name="platform/build" >
-    <copyfile src="core/root.mk" dest="Makefile" remote=“aosp” revision=“refs/tags/android-4.1.1_r3” />
+    <copyfile src="core/root.mk" dest="Makefile" remote=“aosp” />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" remote=“aosp” revision=“refs/tags/android-4.1.1_r3” />
   <project path="bionic" name="platform/bionic" remote=“aosp” revision=“refs/tags/android-4.1.1_r3” />
