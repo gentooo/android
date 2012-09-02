@@ -5,10 +5,10 @@
            fetch="https://android.googlesource.com/" />
 
   <remote  name="i9100"
-           fetch="https://github.com/"
+           fetch="https://github.com/" />
   
   <remote  name="aokp"
-           fetch="https://github.com/"
+           fetch="https://github.com/" />
 
   <remote  name="cm"
            fetch="https://github.com/CyanogenMod/"
