@@ -29,7 +29,7 @@
   <project path="bootable/diskinstaller" name="android_bootable_diskinstaller" remote="cm" revision="jellybean" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="cm" revision="jellybean" />
   <project path="cts" name="platform/cts" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
-  <project path="dalvik" name="platform/dalvik" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
+  <project path="dalvik" name="android_dalvik" remote="cm" revision="jellybean" />
   <project path="development" name="platform/development" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="device/common" name="device/common" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
@@ -329,5 +329,7 @@
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="android_vendor_tmobile_libs_com.tmobile.themes" remote="cm" revision="jellybean" />
   <project path="vendor/tmobile/providers/ThemeManager" name="android_vendor_tmobile_providers_ThemeManager" remote="cm" revision="jellybean" />
   <project path="vendor/tmobile/products/themes" name="android_vendor_tmobile_products_themes" remote="cm" revision="jellybean" />
+  <project path="android" name="gentooo/android" remote="gh" revision="aosp" />
+
 
 </manifest>
