@@ -191,8 +191,8 @@
   <project path="external/yaffs2" name="android_external_yaffs2" remote="cm" revision="jellybean" />
   <project path="external/zlib" name="android_external_zlib" remote="cm" revision="jellybean" />
   <project path="external/zxing" name="platform/external/zxing" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
-  <project path="frameworks/av" name="android_frameworks_av" remote="cm" revision="jellybean" />
-  <project path="frameworks/base" name="android_frameworks_base" remote="cm" revision="jellybean" />
+  <project path="frameworks/av" name="aokp/android_frameworks_av" remote="gh" revision="jb" />
+  <project path="frameworks/base" name="aokp/android_frameworks_base" remote="gh" revision="jb" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
