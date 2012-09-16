@@ -50,7 +50,6 @@
   <project path="external/apache-http" name="platform/external/apache-http" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/apache-xml" name="platform/external/apache-xml" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/astl" name="platform/external/astl" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
-  <project path="external/bash" name="platform/external/bash" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/bison" name="platform/external/bison" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/blktrace" name="platform/external/blktrace" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/bluetooth/bluez" name="platform/external/bluetooth/bluez" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
@@ -158,7 +157,6 @@
   <project path="external/protobuf" name="platform/external/protobuf" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/qemu" name="platform/external/qemu" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/qemu-pc-bios" name="platform/external/qemu-pc-bios" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
-  <project path="external/qrngd" name="platform/external/qrngd" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/quake" name="platform/external/quake" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/regex-re2" name="platform/external/regex-re2" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/replicaisland" name="platform/external/replicaisland" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
