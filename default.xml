@@ -61,7 +61,7 @@
   <project path="external/busybox" name="android_external_busybox" remote="cm" revision="jellybean" />
   <project path="external/bzip2" name="platform/external/bzip2" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/checkpolicy" name="platform/external/checkpolicy" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
-  <project path="external/chromium" name="AOKP/external_chromium" remote="aokp" revision="jb" />
+  <project path="external/chromium" name="platform/external/chromium" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/chromium-trace" name="platform/external/chromium-trace" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/cibu-fonts" name="platform/external/cibu-fonts" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/clang" name="platform/external/clang" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
@@ -84,7 +84,7 @@
   <project path="external/eyes-free" name="platform/external/eyes-free" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/fdlibm" name="platform/external/fdlibm" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/flac" name="platform/external/flac" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
-  <project path="external/freetype" name="AOKP/external_freetype" remote="aokp" revision="jb" />
+  <project path="external/freetype" name="platform/external/freetype" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/fsck_msdos" name="platform/external/fsck_msdos" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/ganymed-ssh2" name="platform/external/ganymed-ssh2" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/gcc-demangle" name="platform/external/gcc-demangle" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
@@ -166,11 +166,11 @@
   <project path="external/replicaisland" name="platform/external/replicaisland" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/safe-iop" name="platform/external/safe-iop" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/sepolicy" name="platform/external/sepolicy" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
-  <project path="external/skia" name="AOKP/external_skia" remote="aokp" revision="jb" />
+  <project path="external/skia" name="platform/external/skia" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/smali" name="platform/external/smali" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/sonivox" name="platform/external/sonivox" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/speex" name="platform/external/speex" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
-  <project path="external/sqlite" name="AOKP/external_sqlite" remote="aokp" revision="jb" />
+  <project path="external/sqlite" name="platform/external/sqlite" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/srec" name="platform/external/srec" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/srtp" name="platform/external/srtp" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/stlport" name="platform/external/stlport" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
@@ -184,7 +184,7 @@
   <project path="external/tremolo" name="platform/external/tremolo" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/v8" name="platform/external/v8" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/valgrind" name="platform/external/valgrind" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
-  <project path="external/webkit" name="AOKP/external_webkit" remote="aokp" revision="jb" />
+  <project path="external/webkit" name="platform/external/webkit" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/webp" name="platform/external/webp" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/webrtc" name="platform/external/webrtc" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/wpa_supplicant_6" name="platform/external/wpa_supplicant_6" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
@@ -222,7 +222,7 @@
   <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="cm" revision="jellybean" />
   <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" remote="cm" revision="jellybean" />
   <project path="hardware/qcom/media" name="android_hardware_qcom_media" remote="cm" revision="jellybean" />
-  <project path="hardware/ril" name="AOKP/android_hardware_ril" remote="aokp" revision="jb" />
+  <project path="hardware/ril" name="platform/hardware/ril" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="hardware/samsung" name="android_hardware_samsung" remote="cm" revision="jellybean" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
