@@ -131,7 +131,6 @@
   <project path="external/littlemock" name="platform/external/littlemock" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/llvm" name="platform/external/llvm" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/lohit-fonts" name="platform/external/lohit-fonts" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
-  <project path="external/lzo" name="platform/external/lzo" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/markdown" name="platform/external/markdown" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/mdnsresponder" name="platform/external/mdnsresponder" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/mesa3d" name="platform/external/mesa3d" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
