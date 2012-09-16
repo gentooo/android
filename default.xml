@@ -193,8 +193,8 @@
   <project path="external/yaffs2" name="android_external_yaffs2" remote="cm" revision="jellybean" />
   <project path="external/zlib" name="android_external_zlib" remote="cm" revision="jellybean" />
   <project path="external/zxing" name="platform/external/zxing" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
-  <project path="frameworks/av" name="AOKP/frameworks_av" remote="aokp" revision="jb" />
-  <project path="frameworks/base" name="AOKP/frameworks_base" remote="aokp" revision="jb" />
+  <project path="frameworks/av" name="platform/frameworks/av" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
+  <project path="frameworks/base" name="platform/frameworks/base" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
@@ -202,7 +202,7 @@
   <project path="frameworks/ex" name="platform/frameworks/ex" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="frameworks/mff" name="platform/frameworks/mff" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="frameworks/ml" name="platform/frameworks/ml" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
-  <project path="frameworks/native" name="AOKP/frameworks_native" remote="aokp" revision="jb" />
+  <project path="frameworks/native" name="platform/frameworks/native" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="frameworks/opt/inputmethodcommon" name="platform/frameworks/opt/inputmethodcommon" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
