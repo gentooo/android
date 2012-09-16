@@ -22,7 +22,7 @@
   <default remote="aosp"
            sync-j="4" />
 
-  <project path="build" name="SuperNexus/android_build" remote="gh" revision="jellybean" >
+  <project path="build" name="android_build" remote="cm" revision="jellybean" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
