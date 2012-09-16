@@ -115,7 +115,6 @@
   <project path="external/libgsm" name="platform/external/libgsm" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/liblzf" name="platform/external/liblzf" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/libmtp" name="platform/external/libmtp" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
-  <project path="external/libncurses" name="platform/external/libncurses" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/libnfc-nxp" name="platform/external/libnfc-nxp" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/libnl-headers" name="platform/external/libnl-headers" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/libpcap" name="platform/external/libpcap" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
