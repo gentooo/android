@@ -50,15 +50,14 @@
   <project path="external/apache-http" name="platform/external/apache-http" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/apache-xml" name="platform/external/apache-xml" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/astl" name="platform/external/astl" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
-  <project path="external/bash" name="android_external_bash" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
+  <project path="external/bash" name="platform/external/bash" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/bison" name="platform/external/bison" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/blktrace" name="platform/external/blktrace" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
-  <project path="external/bluetooth/bluez" name="android_external_bluetooth_bluez" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
+  <project path="external/bluetooth/bluez" name="platform/external/bluetooth/bluez" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/bluetooth/glib" name="platform/external/bluetooth/glib" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/bluetooth/hcidump" name="platform/external/bluetooth/hcidump" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/bsdiff" name="platform/external/bsdiff" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
-  <project path="external/busybox" name="platform/external/busybox" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/bzip2" name="platform/external/bzip2" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/checkpolicy" name="platform/external/checkpolicy" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="external/chromium" name="platform/external/chromium" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
