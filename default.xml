@@ -202,7 +202,7 @@
   <project path="frameworks/av" name="android_frameworks_av" remote="cm" revision="jellybean" />
   <project path="frameworks/base" name="android_frameworks_base" remote="cm" revision="jellybean" />
   <project path="frameworks/compile/libbcc" name="android_frameworks_compile_libbcc" remote="cm" revision="jellybean" />
-  <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" />
+  <project path="frameworks/compile/linkloader" name="android_frameworks_compile_linkloader" remote="cm" revision="jellybean" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" />
   <project path="frameworks/ex" name="platform/frameworks/ex" />
