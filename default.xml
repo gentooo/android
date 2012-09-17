@@ -56,7 +56,7 @@
   <project path="external/aac" name="platform/external/aac" />
   <project path="external/android-mock" name="android_external_android-mock" remote="cm" revision="jellybean" />
   <project path="external/antlr" name="platform/external/antlr" />
-  <project path="external/apache-harmony" name="platform/external/apache-harmony" />
+  <project path="external/apache-harmony" name="android_external_apache-harmony" remote="cm" revision="jellybean" />
   <project path="external/apache-http" name="platform/external/apache-http" />
   <project path="external/apache-xml" name="platform/external/apache-xml" />
   <project path="external/astl" name="platform/external/astl" />
