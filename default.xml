@@ -19,10 +19,11 @@
   <remote name="gh"
            fetch="https://github.com/" />
 
-  <default remote="aosp"
+  <default revision="master"
+           remote="aosp"
            sync-j="4" />
 
-  <project path="build" name="SuperNexus/android_build" remote="gh" revision="jellybean" >
+  <project path="build" name="platform/build">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
