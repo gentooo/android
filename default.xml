@@ -42,7 +42,7 @@
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" />
   <project path="device/sample" name="device/sample" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
-  <project path="external/aac" name="android__external_aac" remote="cm" revision="jellybean" />
+  <project path="external/aac" name="android_external_aac" remote="cm" revision="jellybean" />
   <project path="external/android-mock" name="android_external_android-mock" remote="cm" revision="jellybean" />
   <project path="external/antlr" name="platform/external/antlr" />
   <project path="external/apache-harmony" name="android_external_apache-harmony" remote="cm" revision="jellybean" />
