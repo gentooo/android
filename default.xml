@@ -23,7 +23,7 @@
            remote="aosp"
            sync-j="4" />
 
-  <project path="build" name="AOKP/android_build" remote="gh" revision="jb" >
+  <project path="build" name="android_build" remote="cm" revision="jellybean" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
@@ -310,10 +310,11 @@
   <project path="sdk" name="platform/sdk" />
   <project path="system/bluetooth" name="platform/system/bluetooth" />
   <project path="system/core" name="android_system_core" remote="cm" revision="jellybean" />
-  <project path="system/extras" name="platform/system/extras" />
+  <project path="system/extras" name="android_system_extras" remote="cm" revision="jellybean" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/security" name="platform/system/security" />
+  <project path="system/su" name="android_system_su" remote="cm" revision="jellybean" />
   <project path="system/vold" name="platform/system/vold" />
   
 </manifest>
