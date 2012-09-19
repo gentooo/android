@@ -4,14 +4,6 @@
   <remote name="aosp"
            fetch="https://android.googlesource.com/" />
 
-  <remote name="i9100"
-           fetch="https://github.com/"
-           review="gerrit.pernici.net" />
-  
-  <remote name="aokp"
-           fetch="https://github.com/"
-           review="gerrit.aokp.co" />
-
   <remote name="cm"
            fetch="https://github.com/CyanogenMod/"
            review="review.cyanogenmod.com" />
