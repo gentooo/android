@@ -306,7 +306,7 @@
   <project path="prebuilts/ndk" name="platform/prebuilts/ndk" />
   <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" />
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" />
-  <project path="prebuilts/tools" name="sndroid_prebuilts_tools" remote="cm" revision="jellybean" />
+  <project path="prebuilts/tools" name="android_prebuilts_tools" remote="cm" revision="jellybean" />
   <project path="sdk" name="platform/sdk" />
   <project path="system/bluetooth" name="platform/system/bluetooth" />
   <project path="system/core" name="platform/system/core" />
