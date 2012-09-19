@@ -314,6 +314,6 @@
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/security" name="platform/system/security" />
-  <project path="system/vold" name="platform/system/vold" />
+  <project path="system/vold" name="android_system_vold" remote="cm" revision="jellybean" />
   
 </manifest>
