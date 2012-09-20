@@ -317,5 +317,4 @@
   <project path="system/su" name="android_system_su" remote="cm" revision="jellybean" />
   <project path="system/vold" name="android_system_vold" remote="cm" revision="jellybean" />
   
-  <manifest/>
-  
+</manifest>
